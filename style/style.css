@@ -1,0 +1,99 @@
+.home {
+  background: #222 url('../assets/images/home-cover-2.jpg') center center no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  height: 75vh;
+  display: flex;
+}
+
+.container-fluid {
+  padding-left: 0px!important;
+  padding-right: 0px!important;
+}
+
+.best-places {
+  text-align: center;
+  font-weight: 300!important;
+  font-size: 28px;
+  color: #fff;
+  text-rendering: optimizeLegibility;
+}
+
+.clear {
+  clear: both;
+}
+
+.restaurant-info {
+  padding: 5px;
+  margin-bottom: 10px;
+  border: 1px solid rgba(0, 0, 0, 0.3);
+}
+
+.resto-name {
+  font-size: 20px;
+  font-weight: 700;
+  color: red;
+}
+
+.resto-suburb {
+  font-size: 14px;
+  font-weight: 600;
+  color: #222;
+}
+
+.resto-address {
+  font-size: 15px;
+  font-weight: 300;
+  color: gray;
+}
+
+.resto-maps {
+  width: 100%;
+  height: 20vw;
+}
+
+.location-marker {
+  width: 50px;
+  height: 50px;
+}
+
+.navbar {
+  padding: 0rem!important;
+}
+
+.navbar-brand {
+  margin-left: 1rem;
+}
+
+.main-search-input {
+  margin-bottom: 1rem;
+}
+
+.input-wrapper {
+  margin-top: 1rem;
+}
+
+.alert {
+  margin-bottom: 0rem!important;
+  padding: 0.5rem 1rem!important;
+}
+
+dl {
+  margin-bottom: 0!important;
+}
+
+dt {
+  font-size: 13px;
+  font-weight: 400!important;
+  text-transform: uppercase!important;
+}
+
+dd {
+  font-size: 13px;
+  margin-bottom: 0!important;
+}
+
+hr {
+  margin-top: 0.25rem!important;
+  margin-bottom: 0.25rem!important;
+}
